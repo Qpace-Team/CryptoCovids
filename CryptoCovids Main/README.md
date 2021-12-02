@@ -2,7 +2,7 @@
 ## We are the cutest Viruses ever that have invaded your WORLD 😜
 
 ![](./public/assets/img/story.gif)
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+
 
 
 
