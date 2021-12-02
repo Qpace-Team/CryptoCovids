@@ -1,17 +1,41 @@
-            ![](./public/assets/img/story.gif)
-            ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+# Welcome to HashLips 👄
 
-            #The CryptoCovids
-            ##We are the cutest Viruses ever that have invaded your WORLD 😜
+![](https://github.com/HashLips/hashlips_minting_card/blob/main/logo.png)
 
-            ###Our Story
+All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
-            In the year 2020, coronavirus started to spread around the world and caused massive Irreparably life and financial losses which are continuing still, and changed the world that you knew for good (At least for several more years), and has split your world into before and after Corona ...
-            But what does this have to do with us?
-            Actually... nothing. 😁😁
-            In the year 2021, a new virus has invaded your world, CryptoCovids who we are. And unlike Coronavirus (that they had been named "Covid" spuriously after us) we are here to maybe change your view of viruses and bring some happiness and fun, and perhaps a little financial profit. 😜
-            We don't claim that your world would split into before and after Us, but who knows, might be...
-            Of course, it has to say that don't think we are here just for fun, rather we are completely practical and useful too, which you would be completely familiar with the special and unique usage of us in our Roadmap, It is unique and unlike other copypasta projects, is a serious THING...
-            We, as CryptoCovids with more than 300 attributes in total, have so plenty of varieties that we can claim each of us could be considered RARE.
+To find out more please visit:
 
-            [CryptoCovids](https://www.CryptoCovids.com).
+[📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
+
+[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
+
+[💬 Telegram](https://t.me/hashlipsnft)
+
+[🐦 Twitter](https://twitter.com/hashlipsnft)
+
+[ℹ️ Website](https://hashlips.online/HashLips)
+
+# HashLips NFT minting dapp 🔥
+
+![](https://github.com/HashLips/hashlips_minting_card/blob/main/banner.png)
+
+This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp.
+
+## Installation 🛠️
+
+If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
+
+```sh
+git clone https://github.com/HashLips/hashlips_minting_card.git
+```
+
+Make sure you have node.js installed so you can use npm, then run:
+
+```sh
+npm install
+```
+
+## Usage ℹ️
+
+This repo will be used in a youtube tutorial.
