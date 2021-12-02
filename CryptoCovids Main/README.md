@@ -1,4 +1,11 @@
-            ![](/public/assets/img/story.gif)
+            ![](./public/assets/img/story.gif)
+            ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+
+            #The CryptoCovids
+            ##We are the cutest Viruses ever that have invaded your WORLD 😜
+
+            ###Our Story
+
             In the year 2020, coronavirus started to spread around the world and caused massive Irreparably life and financial losses which are continuing still, and changed the world that you knew for good (At least for several more years), and has split your world into before and after Corona ...
             But what does this have to do with us?
             Actually... nothing. 😁😁
@@ -7,4 +14,4 @@
             Of course, it has to say that don't think we are here just for fun, rather we are completely practical and useful too, which you would be completely familiar with the special and unique usage of us in our Roadmap, It is unique and unlike other copypasta projects, is a serious THING...
             We, as CryptoCovids with more than 300 attributes in total, have so plenty of varieties that we can claim each of us could be considered RARE.
 
-            ![CryptoCovids] (https://www.CryptoCovids.com)
+            [CryptoCovids](https://www.CryptoCovids.com).
