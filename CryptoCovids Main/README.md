@@ -6,4 +6,4 @@
             Of course, it has to say that don't think we are here just for fun, rather we are completely practical and useful too, which you would be completely familiar with the special and unique usage of us in our Roadmap, It is unique and unlike other copypasta projects, is a serious THING...
             We, as CryptoCovids with more than 300 attributes in total, have so plenty of varieties that we can claim each of us could be considered RARE.
 
-            [CryptoCovids] (https://www.CryptoCovids.com)
+            [CryptoCovids], (https://www.CryptoCovids.com)
