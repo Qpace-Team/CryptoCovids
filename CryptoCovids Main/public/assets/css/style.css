@@ -937,6 +937,7 @@ section .container {
   width: 30px;
   height: 30px;
   fill: #fff;
+  margin-bottom: 10px;
 } 
 
 .portfolio .iframe {
