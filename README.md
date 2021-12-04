@@ -1,7 +1,7 @@
 # The CryptoCovids
 ## We are the cutest Viruses ever that have invaded your WORLD 😜
 
-![](./CryptoCovids Main/public/assets/img/story.gif)
+![](../public/assets/img/story.gif)
 
 
 
