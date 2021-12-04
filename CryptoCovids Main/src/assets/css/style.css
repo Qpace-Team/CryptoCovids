@@ -31,7 +31,7 @@ body::before {
 
 canvas {
   display: block;
-  background: #040404 url("../img/bg2.svg") top right no-repeat; 
+  background: #040404 url("../img/bg.svg") top right no-repeat; 
   background-size: cover;
   left: 0;
   right: 0;
@@ -1073,7 +1073,7 @@ section .container {
   color: #fff;
 }
 .club .container {
-  background: url("../img/club.jpg") top right no-repeat;
+  background: url("../img/club.webp") top right no-repeat;
   background-size: cover; 
   opacity: 1;
 }
