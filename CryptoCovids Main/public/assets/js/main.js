@@ -31,7 +31,7 @@
     body.style.backgroundImage = bg;
     body.style.transition = "background 0.5s";
   }
-  setInterval(ChangeBG, 9000)
+  setInterval(ChangeBG, 8000)
 
   //AOS
   AOS.init({

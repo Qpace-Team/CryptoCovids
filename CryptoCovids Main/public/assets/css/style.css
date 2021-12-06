@@ -648,8 +648,8 @@ section .container {
   border: 2px solid #18d26e;
 }
 .resume .roadmap {
-  padding-left: 300px;
-  padding-right: 300px;
+  padding-left:30%;
+  padding-right: 30%;
 }
 
 /*--------------------------------------------------------------
@@ -658,7 +658,7 @@ section .container {
 .services .icon-box {
   text-align: center;
   background: rgba(204, 204, 204, 0.1);
-  padding: 30px 20px;
+  padding: 30px 50px;
   transition: all ease-in-out 0.3s;
 }
 .services .icon-box .icon {
