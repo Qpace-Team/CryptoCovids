@@ -53,7 +53,7 @@ function Minter() {
         } else {
           setInfo(() => ({
             ...initialInfoState,
-            status: `Change network to ${_contractJSON.chain}.`,
+            status: `Change network to the right network (${_contractJSON.chain} Mainnet).`,
           }));
         }
       } catch (err) {
