@@ -31,7 +31,7 @@ body::before {
 
 canvas {
   display: block;
-  background: #040404 url("../img/bg-20.webp") top right no-repeat; 
+  background: #040404 url("../img/bg-4.webp") top right no-repeat; 
   background-size: cover;
   left: 0;
   right: 0;
