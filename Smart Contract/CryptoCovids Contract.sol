@@ -1190,7 +1190,6 @@ pragma solidity >=0.7.0 <0.9.0;
 
 
 
-
 contract CryptoCovids is ERC721, Ownable {
   using Strings for uint256;
   using Counters for Counters.Counter;
@@ -1304,6 +1303,10 @@ contract CryptoCovids is ERC721, Ownable {
     uriSuffix = _uriSuffix;
   }
 
+  function setMaxSupply(uint256 _maxSupply) public onlyOwner {
+    maxSupply = _maxSupply;
+  }
+  
   function setPaused(bool _state) public onlyOwner {
     paused = _state;
   }
